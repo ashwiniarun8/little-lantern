@@ -1,6 +1,6 @@
 # Little Lantern — A Small Cooking World
 
-A cozy, illustrated cooking-world website built for Mission 2. Rather than a conventional restaurant page, Little Lantern is organised as a collection of little places to explore.
+A cozy, illustrated cooking-world website . Rather than a conventional restaurant page, Little Lantern is organised as a collection of little places to explore.
 
 ## What's inside
 - **Ramen Shop:** browse a few broth and noodle ideas.
